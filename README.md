@@ -63,8 +63,8 @@ In-depth analysis of a diabetes dataset to uncover patterns and risk indicators.
 
 Feel free to check out my projects or reach out!
 
-- 💼 [LinkedIn](https://www.linkedin.com/)
-- 📧 Email: your.email@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/haya-albhaisi-085232237/)
+- 📧 Email: hayacom269@gmail.com
 
 ---
 
